@@ -82,3 +82,76 @@ text-align:center;
 padding:30px;
 margin-top:40px;
 }
+.newsletter{
+
+padding:80px 20px;
+
+text-align:center;
+
+background:white;
+
+}
+
+.newsletter h2{
+
+font-size:36px;
+
+margin-bottom:20px;
+
+}
+
+.newsletter p{
+
+font-size:20px;
+
+margin-bottom:20px;
+
+}
+
+.newsletter ul{
+
+list-style:none;
+
+margin-bottom:30px;
+
+}
+
+.newsletter li{
+
+margin:10px;
+
+font-size:18px;
+
+}
+
+.newsletter input{
+
+padding:15px;
+
+width:300px;
+
+max-width:90%;
+
+margin-bottom:15px;
+
+border-radius:8px;
+
+border:1px solid #ccc;
+
+}
+
+.newsletter button{
+
+padding:15px 30px;
+
+background:#2563EB;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+cursor:pointer;
+
+}
